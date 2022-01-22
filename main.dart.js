@@ -107170,7 +107170,7 @@ A.SZ.prototype={
 H(a,b){var s=null,r=A.a([new A.ed(0,B.bk,A.an(38,0,0,0),B.Gw,53)],t.F)
 return A.c_(A.b3(s,A.ab(s,A.cy(A.bz(A.a([B.aVY,new A.a6(90,110,A.oQ("https://cdn-icons-png.flaticon.com/512/1355/1355236.png",s,s,s,s),s)],t.p),B.u,B.aV,B.r,s),s,s,s),B.i,s,s,new A.bm(B.alp,s,s,B.b3,r,s,s,B.P),s,220,s,s,s,s,s,320),B.t,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.afn(),s,s,s,s,s,s),B.T,s,s,s,s)}}
 A.afn.prototype={
-$0(){A.o1("https://drive.google.com/drive/u/1/folders/1y8M_wr2LAlfsDbPDD0MfQExO6VHkdTKl")},
+$0(){A.o1("https://drive.google.com/file/d/1-cfgVlvrx2DuwTZZb45JLIASMu0LKO2v/view")},
 $S:0}
 A.T_.prototype={
 H(a,b){var s=null,r=A.a([new A.ed(0,B.bk,A.an(38,0,0,0),B.Gw,53)],t.F),q=t.p
